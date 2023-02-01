@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lunch_menu>
+             <food>
+                                <name>beetroot and feta salad</name>
+                                <price>$15.00</price>
+                                <description>suitable for vegeterians and made with fresh beetroot</description>
+ 
+                </food>
+                <food>
+                                <name>sourdough Rye sandwich</name>
+                                <price>$18.00</price>
+                                <description>cheese and salad sandwich made with organic</description>
+                                
+                </food>
+                <food>
+                                <name>spinach pie and salad</name>
+                                <price>$20.00</price>
+                                <description>tasty pie with salad</description>
+                
+                </food>
+                <food>
+                                <name>feta pancakes with salad</name>
+                                <price>$19.50</price>
+                                <description>tasty pancake filled with feta and salad</description>
+                                
+                </food>
+</lunch_menu>
